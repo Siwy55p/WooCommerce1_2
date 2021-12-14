@@ -127,6 +127,9 @@
     <PackageReference Include="MySql.Data">
       <Version>8.0.27</Version>
     </PackageReference>
+    <PackageReference Include="PrestaSharp">
+      <Version>1.2.9</Version>
+    </PackageReference>
     <PackageReference Include="WooCommerceNET">
       <Version>0.8.4</Version>
     </PackageReference>
