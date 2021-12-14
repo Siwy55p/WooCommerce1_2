@@ -298,7 +298,7 @@ namespace WooCommerce1
             fdlg.Title = "Select file";
             fdlg.InitialDirectory = @"c:\";
             fdlg.FileName = txtFileName.Text;
-            fdlg.Filter = "Excel Sheet(*.xlsx)|Excel Sheet(*.xls)|*.xls|All Files(*.*)|*.*";
+            fdlg.Filter = "Excel Sheet2(*.xlsx)|*xlsx|Excel Sheet(*.xls)|*.xls|All Files(*.*)|*.*";
             fdlg.FilterIndex = 1;
             fdlg.RestoreDirectory = true;
 
